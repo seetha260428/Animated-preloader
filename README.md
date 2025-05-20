@@ -14,7 +14,7 @@ This project is a smooth, circular preloader animation made entirely with HTML a
 
 ## 🚀 Demo
 
-
+![Image](https://github.com/user-attachments/assets/36101e13-b163-4235-9b0d-cd9b151daea6)
 
 Or check it out live in your browser:
 📂 Open the index.html file in any browser.
@@ -34,7 +34,7 @@ animate-bubble-circle/
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/animate-bubble-circle.git
-````
+
 
 2. Open index.html in your browser to see the animation.
 
