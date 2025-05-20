@@ -62,9 +62,6 @@ animate-bubble-circle/
 * 📏 Resize the loader:
   Update dimensions in .animate-preloader and .animate-bubble-circle div > div styles.
 
-## 💡 Credits
-
-Inspired by loading.io style animations.
 
 ## 📄 License
 
