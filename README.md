@@ -12,7 +12,7 @@ This project is a smooth, circular preloader animation made entirely with HTML a
 - Easy to customize (color, size, speed)
 - Ready to embed into any webpage or project
 
-## 🚀 Demo
+## 🚀 Live Demo : https://seetha260428.github.io/Animated-preloader/
 
 ![Image](https://github.com/user-attachments/assets/36101e13-b163-4235-9b0d-cd9b151daea6)
 
